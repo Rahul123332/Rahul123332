@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rahul123332
+- 👀 I’m interested in exploring various programming languages, web development, artificial intelligence, and machine learning.
+- 🌱 I’m currently learning advanced concepts in Python, diving into data science, and enhancing my skills in front-end and back-end web development.
+- 💞️ I’m looking to collaborate on open source projects related to AI, web development, or any innovative tech project that aligns with my interests.
+- 📫 How to reach me: Feel free to send me a message here on GitHub or connect with me on [LinkedIn]. I'm always open to new opportunities and discussions!
